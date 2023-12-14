@@ -1,5 +1,3 @@
-![alt Sirius Software](https://sirius.com.ar/sirius-logo.svg)
-
 # Sirius Twitter - Angular Training
 
 Welcome to the Sirius Twitter - Angular Training! This project is designed to help you learn Angular.
