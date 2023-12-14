@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.icon">
-
 # Sirius Twitter - Angular Training
 
 Welcome to the Sirius Twitter - Angular Training! This project is designed to help you learn Angular.
